@@ -1,0 +1,17 @@
+# For C/C++ projects
+*.o
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+*.vcxproj*
+*.sln
+*.suo
+
+# System files
+.DS_Store
+Thumbs.dbs
