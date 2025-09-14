@@ -14,7 +14,7 @@ OS Chat System is a simple inter-process communication (IPC) chat application us
 ### **Step 1: Clone the Repository**  
 ```sh  
 git clone https://github.com/noumanic/OS-Chat-System.git  
-cd OS-Chat-System  
+cd OS-Cli-Chat-System  
 ```
 
 ### **Step 2: Compile the Code**  
